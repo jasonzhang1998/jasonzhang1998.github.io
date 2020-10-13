@@ -29,7 +29,7 @@ navigation:
   - name: 标签
     url: /tags
   - name: 博客
-    url: /_posts
+    url: /_posts/
 
 # Pagination
 paginate: 8
